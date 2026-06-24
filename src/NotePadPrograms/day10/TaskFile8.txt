@@ -1,0 +1,47 @@
+// task  1
+
+WAJP to design a method which takes one character.
+Here if character is lowercase alpha then convert it into Uppercase alpha and return it 
+otherwise return the original character
+
+// task  2
+
+WAJP to design a method which takes one character.
+Here if character is Upper case alpha then convert it into lowercase alpha and return it 
+otherwise return the original character
+
+// task 3 
+
+WAJP to design a method to create Object of Student and initialize name , age , phone of the Student object by user
+in the  end return  student object
+
+
+// Here in both programs args should be entered by user at the calling time
+
+
+// task 4
+
+WAJP to design a method to create Object of Product , here product contain id ,  brandName , price , yol
+Now initialize all info by User and return the product object. 
+
+
+
+--->  print product name having higher price
+
+
+// Que of the Day
+
+
+create a method which takes two student objects and print the name of student having highest marks
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,22 @@
+// WAJP to store following Info : 
+
+// store - > Student name , age , contactnumber
+	//   email , percent , College Name 
+	//  joined premium ? , aadhar number
+	// pan number , course Name 
+	// fee amount , discounted amount
+      
+//Task  <---> Print 	
+
+Output
+
+--------Students Details----------------
+Name		:	Teena
+Age		:	27
+
+String name = "Teena";
+
+System.out.println("Name\t\t:\t\t" + name);
+
+Name		:		Teena
+

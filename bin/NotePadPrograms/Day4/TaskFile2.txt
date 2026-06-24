@@ -1,0 +1,6 @@
+// Task 
+
+
+// WAJP to create a real world entity which contain 
+//  5 non static states and 2 static states
+// Now initialize all the states and later print them.

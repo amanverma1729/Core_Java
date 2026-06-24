@@ -1,0 +1,48 @@
+Java Intro
+Literals
+ * what is lietrals
+ * Type of Lietrals
+DataType
+ * why we use DataTypes
+ * Types of DataTypes
+	* Primitive DataTypes
+	* Non Primitive DataTypes
+Variables
+ * What is Variable and Why we use them
+ * Characterstics of Variables
+ * Types of Variables
+	Local vars
+	static vars
+	non static vars
+ * difference between all three types
+
+How to take input from user via keyboard (Scanner class and all methods)
+
+Method 
+* What is method block
+* how to design a method
+* what is argument
+* what is return keyword
+* when to create static or non static method
+* when to pass arguments
+* Predefined methods
+* userdefined methods
+* Math class methods (5-6 methods)
+* String class methods ( 5-6 methods)
+* Scanner class methods (9 methods)
+* method call statement flow
+
+important : 
+ pass non-primitive type of argument inside method 
+ return non-primitive type of data from method 
+
+class 
+  what is class
+  how to create it
+  
+Object
+  what is an object
+  syntax
+  in which memory it will take space
+
+
