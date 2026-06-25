@@ -1,3 +1,4 @@
+package NotePadPrograms.Day4;
 class Example
 {
   static int a ;  // static var --> belongs to class

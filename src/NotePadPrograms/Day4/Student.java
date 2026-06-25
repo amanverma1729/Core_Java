@@ -1,3 +1,5 @@
+package NotePadPrograms.Day4;
+
 class Student
 {
 static int instituteCode;

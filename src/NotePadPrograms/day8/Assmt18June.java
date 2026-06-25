@@ -1,3 +1,4 @@
+package NotePadPrograms.day8;
 class  Assmt18June
 {
 

@@ -1,3 +1,4 @@
+package NotePadPrograms.day6;
 /*
 WAJP to create 2 non static variables of character type having alpha
 Now inside main method perfrom addition with characters and store the rseult

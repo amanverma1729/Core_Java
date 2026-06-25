@@ -1,3 +1,4 @@
+package NotePadPrograms.day8;
 // WAJP to give last digit of a number
 // WAJP to check last digit is even or not
 // 

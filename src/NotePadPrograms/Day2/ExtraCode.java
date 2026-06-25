@@ -1,3 +1,4 @@
+package NotePadPrograms.Day2;
 class ExtraCode
 {
 public static void main(String[] args)

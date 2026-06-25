@@ -1,3 +1,4 @@
+package NotePadPrograms.day7;
 // find out output of this program
 class MethodTrace1 {
 	public static void m1() {

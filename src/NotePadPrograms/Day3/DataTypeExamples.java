@@ -1,3 +1,5 @@
+package NotePadPrograms.Day3;
+
 class DataTypeExamples
 {
 

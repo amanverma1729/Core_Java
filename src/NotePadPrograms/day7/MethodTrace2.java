@@ -1,3 +1,5 @@
+
+package NotePadPrograms.day7;
 // find out output of this program
 class MethodTrace2 {
   static double  i ;   // i = 0.0 --> 1.0 --> 2.0

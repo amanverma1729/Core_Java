@@ -1,5 +1,5 @@
  // WAJP to print All possible info of an Employee
-
+package NotePadPrograms.Day2;
 class EmployeeDetails
 {
 

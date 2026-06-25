@@ -1,3 +1,4 @@
+package NotePadPrograms.day8;
 // Find out output of the program : 
 class MethodExample7 {
 public static void m1(int i) // i = 65

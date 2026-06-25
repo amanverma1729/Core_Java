@@ -1,4 +1,4 @@
-package methods;
+package NotePadPrograms.day10;
 
 import java.util.Scanner;
 

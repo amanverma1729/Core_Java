@@ -1,3 +1,4 @@
+package NotePadPrograms.day8;
 class MethodExample4
 {
 public static void main(String[] args)

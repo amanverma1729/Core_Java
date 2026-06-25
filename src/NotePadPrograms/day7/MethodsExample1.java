@@ -1,3 +1,4 @@
+package NotePadPrograms.day7;
 class MethodsExample1
 {
 

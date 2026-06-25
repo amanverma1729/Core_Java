@@ -1,3 +1,4 @@
+package NotePadPrograms.day9;
 // step 1 : 
 import java.util.Scanner;
 class UserInput

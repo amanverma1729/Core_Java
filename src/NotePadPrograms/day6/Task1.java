@@ -11,7 +11,7 @@ static double n2 = 5.0;
 public static void main(String[] args)
 {
    
-  double sum =  Task1.n1 + Task1.n2;
+double sum =  Task1.n1 + Task1.n2;
 
 System.out.println(sum);
 

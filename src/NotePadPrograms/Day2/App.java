@@ -1,3 +1,5 @@
+package NotePadPrograms.Day2;
+
 class  App
 {
  

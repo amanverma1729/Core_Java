@@ -1,3 +1,4 @@
+package NotePadPrograms.day6;
 /*
 WAJP to create 1 float type var and 1 double type of var as local vars
 Now perform multiplication with both vars and store the result

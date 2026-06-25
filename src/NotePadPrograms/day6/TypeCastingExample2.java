@@ -1,3 +1,4 @@
+package NotePadPrograms.day6;
 class TypeCastingExample2
 {
 
