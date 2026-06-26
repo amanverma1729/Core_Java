@@ -1,4 +1,4 @@
-package NotePadPrograms.Day14.Inheritance;
+package NotePadPrograms.Day14.Inheritance.fruitApp;
 
 public class Apple extends Fruit{
 
@@ -6,4 +6,6 @@ public class Apple extends Fruit{
         super(FruitId, name, price);
     }
     
-}
+    }
+    
+

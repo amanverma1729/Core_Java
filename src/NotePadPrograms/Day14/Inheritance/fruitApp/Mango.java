@@ -1,4 +1,4 @@
-package NotePadPrograms.Day14.Inheritance;
+package NotePadPrograms.Day14.Inheritance.fruitApp;
 
 public class Mango extends Fruit{
          
