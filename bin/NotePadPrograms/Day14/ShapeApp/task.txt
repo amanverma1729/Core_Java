@@ -1,0 +1,13 @@
+Desogn a menu driven   ui for shape baesed application here
+user can select any type of shape like circle ,square rectangle
+press 1 circle 
+press 1 rectangle
+press 1 square
+
+if user enter 1 create  obeject of the circle:
+circle-> shapeId, shapeName , color, radius,
+
+now show menu option :
+press A area 
+press P Parameter
+if user enter a or a then show the 
