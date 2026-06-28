@@ -8,6 +8,9 @@ public class fruitsController {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("welcome to the fruit application ");
+        while (true) {
+            
+        
         System.out.println("Press 1 for apple");
         System.out.println("Press 2 for Banana");
         System.out.println("Press 3 for Mango");
@@ -61,10 +64,11 @@ public class fruitsController {
 
         if(input==6){
             System.out.println("Thankyou for visting....\nCome Again");
+            break;
             
         }
     
         
-
+    }
     }
 }

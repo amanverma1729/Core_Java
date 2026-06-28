@@ -30,6 +30,7 @@ public class Fruit {
                 System.out.println("Total amount to be paid "+totalPrice);
                 System.out.println("Add Items Rs."+toGetDiscount+" more to get Rs. 50 OFF ");
                  System.out.println("Thankyou for shoping! Visit again");
+                 System.out.println("=======================================================\n");
                 
             }  
 
