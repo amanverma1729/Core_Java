@@ -1,9 +1,0 @@
-// first read a number 
-// then read a String  by using next() 
-
---- print 
-
-// first read a number 
-// then read a String  by using nextLine()  
-
----print

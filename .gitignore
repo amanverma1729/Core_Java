@@ -1,1 +1,14 @@
 ./bin
+# Eclipse output
+bin/
+
+# Java compiled files
+*.class
+
+# VS Code
+.vscode/
+
+# Eclipse files
+.project
+.classpath
+.settings/
