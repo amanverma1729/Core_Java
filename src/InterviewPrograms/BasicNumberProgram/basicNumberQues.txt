@@ -1,0 +1,57 @@
+*----------Basic Number Programs-----------------*
+
+
+Check whether a number is even or odd.
+Find the largest of two numbers.
+Find the largest of three numbers.
+Swap two numbers using a third variable.
+Swap two numbers without using a third variable.
+Check whether a number is positive, negative, or zero.
+Find the factorial of a number.
+Print the multiplication table of a number.
+Find the sum of first N natural numbers.
+Find the sum of digits of a number.
+
+Reverse a number.
+Check whether a number is a palindrome.
+Check whether a number is an Armstrong number.
+Check whether a number is a Perfect number.
+Check whether a number is a Strong number.
+Check whether a number is a Neon number.
+Check whether a number is a Spy number.
+Check whether a number is an Automorphic number.
+Check whether a number is a Duck number.
+Check whether a number is a Sunny number.
+Check whether a number is prime.
+Print all prime numbers in a given range.
+Find the sum of prime numbers in a range.
+Find the nth prime number.
+Count the number of prime numbers in a range.
+
+Print the Fibonacci series.
+Print the nth Fibonacci number.
+Check whether a number belongs to the Fibonacci series.
+Sum of Fibonacci numbers.
+Print Fibonacci using recursion.
+
+Find the GCD (HCF) of two numbers.
+Find the LCM of two numbers.
+Check whether two numbers are co-prime.
+Find the power of a number.
+Find the square root of a number.
+Find the cube of a number.
+Check whether a number is a perfect square.
+Check whether a number is a perfect cube.
+Count the number of digits in a number.
+Find the product of digits.
+
+Convert decimal to binary.
+Convert binary to decimal.
+Convert decimal to octal.
+Convert octal to decimal.
+Convert decimal to hexadecimal.
+Convert hexadecimal to decimal.
+Check whether a number is a Happy number.
+Check whether a number is a Disarium number.
+Check whether a number is a Harshad (Niven) number.
+Generate random numbers within a given range.
